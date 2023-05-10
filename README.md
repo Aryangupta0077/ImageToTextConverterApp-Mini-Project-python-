@@ -1,1 +1,1 @@
-# ImageToTextConverterApp-Mini-Project-python-
+It is software which is used to extract text from images and that text can be converted to speech too. It was built by using various libraries of python like, OpenCV, PyTesseract and some pretrained Machine learning libraries.
